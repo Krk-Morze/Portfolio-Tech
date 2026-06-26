@@ -19,19 +19,23 @@ O repositório está organizado de forma categórica para facilitar a sua navega
 
 ### 🌐 [01. Desenvolvimento Fullstack](./01-fullstack-apps)
 Aplicações web completas, focadas em experiência do usuário (UX), arquitetura limpa e integração de sistemas.
+
 * **Projeto Destaque:** [Nome do Projeto] - Sistema de [O que o sistema faz]. Construído com [Tecnologias X, Y, Z].
 
 ### 📊 [02. Análise de Dados & BI (Power BI / Excel)](./02-data-analysis-powerbi-excel)
 Dashboards interativos e planilhas automatizadas voltadas para inteligência de negócios, geração de insights e relatórios gerenciais.
+
 * **Projeto Destaque:** [Nome do Dashboard] - Relatório de [Vendas/Finanças] com tratamento de dados via Power Query e fórmulas DAX complexas.
 
 ### 🗄️ [03. Banco de Dados & SQL](./03-database-sql)
 Modelagem de dados, otimização de consultas (queries), criação de views, triggers e manipulação de grandes volumes de informação.
+
 * **Projeto Destaque:** [Nome do Script/Projeto] - Modelagem e otimização de banco de dados para e-commerce fictício.
 
 ### 🐍 [04. Automações com Python](./04-python-automation)
 Scripts voltados para o ganho de eficiência operacional, incluindo Web Scraping (extração de dados da web), bots de automação e integração de APIs.
-* **Projeto Destaque:** [Nome do Script] - Automação de processos que reduz o tempo de [Tarefa X] utilizando Selenium/Requests.
+
+* **Projeto Destaque:** [pipeline_auditoria.py] - O script lê a base centralizada de vendas transacionais, segmenta os dados por unidade, gera backups locais blindados contra falhas operacionais, calcula KPIs de faturamento e mix de produtos, aplica regra de farol (meta batida = verde / perdida = vermelho) e **dispara cards HTML formatados via SMTP (Gmail) para os gerentes, além de um Resumo Executivo consolidado para a Diretoria.**.
 
 ---
 
