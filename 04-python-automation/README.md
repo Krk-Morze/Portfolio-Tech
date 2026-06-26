@@ -6,7 +6,7 @@ Coleção de scripts desenvolvidos para eliminar tarefas repetitivas, estruturar
 
 ---
 
-## 🚀 Projeto 1: [Daily Audit Pipeline]
+## 🚀 Projeto 1: [Daily Story Auditor]
 
 ## 🤖 Projeto em Destaque: Coffee Shop Network — Daily Audit Pipeline
 
