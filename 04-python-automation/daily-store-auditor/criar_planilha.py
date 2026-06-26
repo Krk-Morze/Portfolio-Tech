@@ -1,7 +1,7 @@
 import pathlib
 import pandas as pd
 
-# 1. MÁGICA: Pega o caminho absoluto exato de onde ESTE script está salvo no seu HD
+# 1. Pega o caminho absoluto exato de onde ESTE script está salvo no seu HD
 PASTA_DO_SCRIPT = pathlib.Path(__file__).parent.resolve()
 
 # 2. Aponta para a subpasta e CRIA ELA na marra caso ela não exista
@@ -12,7 +12,7 @@ PASTA_BASE_DADOS.mkdir(parents=True, exist_ok=True)
 caminho_absoluto = PASTA_BASE_DADOS / 'Emails.xlsx'
 
 # Coloque o seu e-mail real aqui entre as aspas:
-MEU_EMAIL = "eliasprogramador2026@outlook.com"
+MEU_EMAIL = "xxxxxxxxxxxxxx@outlook.com" # pode ser qualquer um E-mail
 
 dados_exatos = {
     'Loja': ['Astoria', 'Lower Manhattan', "Hell's Kitchen", 'Diretoria'],
