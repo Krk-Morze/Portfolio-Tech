@@ -1,0 +1,2 @@
+# Ignorar arquivos de ambiente (senhas e chaves)
+.env
